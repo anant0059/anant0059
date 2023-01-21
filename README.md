@@ -74,6 +74,15 @@
     Github Stats
 </h2>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anant0059&show_icons=true&theme=radical&locale=en&layout=compact)
-![Anant's Github Stats](https://github-readme-stats.vercel.app/api?username=anant0059&show_icons=true&theme=radical)
-![Anant GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anant0059&theme=radical)
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anant0059&show_icons=true&theme=radical&locale=en&layout=compact" alt="anant0059" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anant0059&show_icons=true&theme=radical" alt="anant0059" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anant0059&theme=radical" alt="anant0059" />
+</p>
+
