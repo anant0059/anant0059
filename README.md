@@ -14,6 +14,31 @@
 </h2>
 
 <p align="left">
+    <a href="https://twitter.com/_anant_kr" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anant_kr" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/anant0059" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant0059" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/_anant_kr_" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anant_kr" height="30" width="40" />
+    </a>
+    <a href="https://www.codechef.com/users/anant_0059" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anant_0059" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/hezekiah" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hezekiah" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/anant_0059" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anant_0059" height="30" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/2019uce00591" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="2019uce00591" height="30" width="40" />
+    </a>
+</p>
+
+<h2 align="left">Skills</h2>
+<p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
